@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pekabeta Food Shop</string>
+    <string name="pekabeta_icon">pekabeta-icon</string>
+    <string name="registracija_korisnika">Registracija korisnika</string>
+    <string name="ime">Ime</string>
+    <string name="prezime">Prezime</string>
+    <string name="email">Email</string>
+    <string name="broj_telefona">Broj telefona</string>
+    <string name="lozinka">Lozinka</string>
+    <string name="registrujte_se">Registrujte se</string>
+    <string name="registracija">Registracija</string>
+    <string name="prijavite_se">Prijavite se</string>
+</resources>
